@@ -1,10 +1,10 @@
-## AniHive
+## 😁 AniHive 💕
 
 **AniHive** is a sleek, anime-themed "New Tab" dashboard for Chrome that blends a modern glassmorphism aesthetic with high-utility productivity tools. It transforms your start page into a personalized command center featuring central character art and integrated AI.
 
 ---
 
-### ### Key Features
+### Key Features
 
 * **Deep Customization**:
 * **Asset Management**: Change the background, central character, and user avatar via the dashboard settings.
@@ -23,7 +23,7 @@
 
 ---
 
-### ### Installation
+### Installation
 
 1. Download or clone this repository.
 2. Open Chrome and navigate to `chrome://extensions/`.
@@ -32,7 +32,7 @@
 
 ---
 
-### ### Technical Stack
+### Technical Stack
 
 * **Core**: HTML5, CSS3 (Glassmorphism), Vanilla JavaScript.
 * **APIs**: Google Gemini API (AI), Open-Meteo (Weather).
