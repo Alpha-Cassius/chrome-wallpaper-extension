@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "AniHive",
+  "name": "Nexis Search",
   "version": "1.0",
   "description": "Anime-themed new tab page.",
   "chrome_url_overrides": {
