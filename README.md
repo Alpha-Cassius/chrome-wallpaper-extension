@@ -6,7 +6,7 @@
 
 ### Key Features
 
-* **Deep Customization**:
+* **Deep Customization**: You can customize it as per your need.
 * **Asset Management**: Change the background, central character, and user avatar via the dashboard settings.
 * **In-App Cropper**: Includes a built-in image editor (powered by Cropper.js) to ensure custom uploads fit perfectly.
 * **Persistent Storage**: Uses **IndexedDB** to store high-resolution images, bypassing standard 5MB browser limits.
