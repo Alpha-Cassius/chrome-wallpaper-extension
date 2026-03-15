@@ -1,4 +1,4 @@
-## 😁 AniHive 💕
+## 😁 Nexis Search 💕
 
 **AniHive** is a sleek, anime-themed "New Tab" dashboard for Chrome that blends a modern glassmorphism aesthetic with high-utility productivity tools. It transforms your start page into a personalized command center featuring central character art and integrated AI.
 
